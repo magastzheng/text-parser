@@ -1,34 +1,4 @@
 
-* Layout (/\/src/github.com/mikydna/)
-** Version: <2012-04-30 Mon>; Outdated
- 	 + *lexer*
-	 	 + /scanner: *lexer/scanner*
-			- scanner.go
-			- tokenizer.go
-			- /lexeme: *lexer/scanner/lexeme*
-				- lexeme.go
-				- predicate.go
-				- position.go
-
-		 + /parser: *lexer/parser* {Eliminate? Move into lexer?}
-			 + parser.go
-			 + resolver.go
-			 + /token: *lexer/parser/token*
-				 - token.go
-				 - predicate.go
-				 - position.go (?)
-
-		 + /tree: *lexer/tree*
-			 - tree.go
-			 - node.go
-			 - builder.go
-
-		 + /orgmode: *lexer/orgmode*
-			 - orgmode.go
-			 - lexemes.go
-			 - tokens.go
-
-
 * Useful References
 	
 ** General
