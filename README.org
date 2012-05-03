@@ -2,14 +2,13 @@
 	
 ** General
 	 + [[http://www.youtube.com/watch?v=HxaD_trXwRE][Rob Pike: Intro & GoLang Lexer]]
-	 + [[https://sites.google.com/site/gopatterns/][Go Language Patterns]]
 	 + [[http://blog.golang.org/2011/09/laws-of-reflection.html][Laws of Reflection]]
 		 
 ** Development Layout
 	 + [[http://code.google.com/p/jmcvetta-contrib/wiki/GithubCodeLayout][Code Layout & Github]]
 		 
 ** Related
-   - [[http://en.wikipedia.org/wiki/Parser_combinator][Wikipedia: Parser Combinators]]
+	 - [[http://en.wikipedia.org/wiki/Parser_combinator][Wikipedia: Parser Combinators]]
    - [[http://en.wikipedia.org/wiki/Parsing][Wikipedia: Parsing]]
    - [[http://en.wikipedia.org/wiki/Lexical_analysis][Wikipedia: Lexical Analysis]]
    - [[http://www.cs.uiuc.edu/class/sp12/cs421/lectures/lecture5-6.pdf][Lecture Slides: Lexing]]
